@@ -22,3 +22,6 @@ Print the desired output in single line separated by spaces.
 #### Memory Limit: 256 MB
 #### Source Limit: 1024 KB
 #### Marking Scheme: Marks are awarded when all the testcases pass. 
+
+###### Link:
+https://www.hackerearth.com/practice/basic-programming/input-output/basics-of-input-output/practice-problems/algorithm/prime-number-8/description/
